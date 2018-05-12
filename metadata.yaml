@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39771'
     url: http://www.gutenberg.org/2009/agents/39771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39001#Social-Transformations-of-the-Victorian-AgeA-Survey-of-Court-and-Country
 gutenberg_issued: '2012-02-27'
 gutenberg_type: Text
 identifiers:
