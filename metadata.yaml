@@ -1,0 +1,28 @@
+_repo: Social-Transformations-of-the-Victorian-AgeA-Survey-of-Court-and-Country_39001
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39001-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Escott, T. H. S. (Thomas Hay Sweet)
+    alias: Escott, Thomas Hay Sweet
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '39771'
+    url: http://www.gutenberg.org/2009/agents/39771
+description: ''
+gutenberg_issued: '2012-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Civilization -- 19th century'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century'
+- !lcc 'DA'
+title: 'Social Transformations of the Victorian Age: A Survey of Court and Country'
+url: http://www.gutenberg.org/ebooks/39001
